@@ -2,7 +2,7 @@
 
 ✅About Me
 
-My name is Rachel Phillips and I am pursuing my Bachelor of Science degree in I.T., with a concentration in Software Engineering at Middle Georgia State University. I am set to graduate in May 2022!🎓🎉
+My name is Rachel Phillips and I recently earned my Bachelor of Science degree in I.T., with a concentration in Software Engineering at Middle Georgia State University. 
 
 📫 How to reach me: rachel.phillips1@mga.edu
 <!--
