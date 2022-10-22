@@ -4,7 +4,7 @@
 
 My name is Rachel Phillips and I recently earned my Bachelor of Science degree in I.T., with a concentration in Software Engineering at Middle Georgia State University. 
 
-📫 How to reach me: rachel.phillips1@mga.edu
+
 <!--
 **Rachel478/Rachel478** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ...
 - 💬 Ask me about ...
-- 📫 How to reach me: rachel.phillips1@mga.edu
+- 📫 How to reach me: 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 
