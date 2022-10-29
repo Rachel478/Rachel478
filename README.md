@@ -1,8 +1,8 @@
 ### Hi there 👋 
 
-✅About Me
 
-My name is Rachel Phillips and I recently earned my Bachelor of Science degree in I.T., with a concentration in Software Engineering at Middle Georgia State University. 
+
+
 
 
 <!--
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with 
-
+✅About Me
 ...
 - 💬 Ask me about ...
 - 📫 How to reach me: 
