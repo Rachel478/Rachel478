@@ -5,7 +5,7 @@
 
 ---
 
-## 👤 About Me
+## 💁‍♀️ About Me
 - 📚 Bookworm alert! Whether it’s reading or listening, I love getting lost in a good story.
 - 🕵️‍♂️✨ Research is my jam—if there’s something new to learn, I’m all in!
 - 📊🧑‍💻 Currently diving into the world of data science and discovering awesome ways to wrangle big data.
