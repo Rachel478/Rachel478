@@ -26,8 +26,8 @@
 ---
 
 ## 🎧 Now Playing
-> _Current Vibes:_  
-
+> [![Audible Badge](https://img.shields.io/badge/Audible-Book-orange?logo=audible)](https://www.audible.com/)
+> **Listening to:** "Worthy" by Jamie Kern Lima
 
 ---
 
